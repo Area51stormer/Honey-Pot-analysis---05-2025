@@ -10,13 +10,6 @@ This project simulates a vulnerable Windows 10 endpoint deployed as a honeypot i
 - 📈 Visuals: time-series, heatmaps, bar and pie charts
 - 🧾 Full LaTeX report documenting setup, queries, and insights
 
-## 📁 Repository Structure
-```
-report/              # LaTeX report with sections and images
-queries/             # All KQL queries used in the project
-geoip-summarized.csv # GeoIP CIDR blocks for enrichment
-screenshots/         # Figures: maps, charts, pie graphs
-```
 
 ## 🛠 Technologies Used
 - Microsoft Azure (VM, LAW, Watchlists, Workbooks)
